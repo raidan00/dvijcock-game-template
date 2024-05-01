@@ -1,0 +1,19 @@
+{
+	"name": "dvijcock-game-template",
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@sveltejs/vite-plugin-svelte": "^3.0.2",
+		"dvijcock": "^1.0.3",
+		"svelte": "^4.2.12",
+		"three": "^0.164.1",
+		"vite": "^5.2.0"
+	},
+	"author": "raidan00",
+	"license": "MIT"
+}
